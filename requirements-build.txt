@@ -1,0 +1,4 @@
+# Dev-only dependency: needed to compile tekkennb.py into a standalone
+# .exe (Windows) or binary (Linux). NOT needed to RUN the installer
+# from source — that only needs Python 3.8+ stdlib.
+pyinstaller>=5.13

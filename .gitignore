@@ -1,0 +1,19 @@
+# Build artifacts (PyInstaller)
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+*.pyo
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
